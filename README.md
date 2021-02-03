@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+You're the  <img src="https://visitor-badge.glitch.me/badge?page_id=nathnet" />  person to visit.
+
+<img src="https://github-readme-stats.vercel.app/api?username=nathnet&show_icons=true&theme=algolia" />
+
 <!--
 **nathnet/nathnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
